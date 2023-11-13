@@ -1,0 +1,1 @@
+fred_key = '715467edc4dc73bbb54690f36a0b2bb8'
